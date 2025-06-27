@@ -1,15 +1,23 @@
-## Hi there 👋
+👋 Olá, eu sou o Emanuel
+Sou graduando em Análise e Desenvolvimento de Sistemas pela UNIFIL e em Estatística pela Universidade Anhembi Morumbi (UAM).
 
-ola, eu sou o Emanuel👋,
+Tenho mais de 4 anos de experiência na área de tecnologia, com foco no setor de distribuição. Desde 2023, atuo na área de dados, com passagens como:
 
-Graduando em Análise e desenvolvimento de sistemas (UNIFIL - ) e Estatística na Universidade Anhembi Morumbi (UAM).
+Analista de Processamento de Dados na Scod Brasil
 
-04 anos atuando na área de tecnologia para o segmento e distribuição;
+Analista de Inteligência de Dados no Broker Santa Rosa (Nestlé)
 
-Entrou para a área de dados em 2023 como Analista de Processamento de dados na Scod Brasil, e depois como Analista de Inteligência no Broker Santa Rosa (Nestlé)
+🛠️ Habilidades Técnicas
+ETL & automações com Python e SQL
 
-Habilidades Técnicas
+Web Scraping com Python
 
-. ETL com python e SQL; . We scrapping com python; . Git/GitHub; . Cloud: Google Cloud Plataform; . DATAVIZ: Power BI, Metabase e Looker Studio.
+Controle de versão com Git/GitHub
 
-Get in touch Feel free to contact me: https://www.linkedin.com/in/emanueldemoraes/
+Cloud: Google Cloud Platform
+
+Data Visualization: Power BI, Metabase e Looker Studio
+
+📬 Entre em contato
+🔗 LinkedIn
+Sinta-se à vontade para se conectar e trocar ideias sobre dados, estatística ou tecnologia!
