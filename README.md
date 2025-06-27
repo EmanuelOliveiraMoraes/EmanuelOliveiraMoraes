@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**EmanuelOliveiraMoraes/EmanuelOliveiraMoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ola, eu sou o Emanuel👋,
 
-Here are some ideas to get you started:
+Graduando em Análise e desenvolvimento de sistemas (UNIFIL - ) e Estatística na Universidade Anhembi Morumbi (UAM).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+04 anos atuando na área de tecnologia para o segmento e distribuição;
+
+Entrou para a área de dados em 2023 como Analista de Processamento de dados na Scod Brasil, e depois como Analista de Inteligência no Broker Santa Rosa (Nestlé)
+
+Habilidades Técnicas
+
+. ETL com python e SQL; . We scrapping com python; . Git/GitHub; . Cloud: Google Cloud Plataform; . DATAVIZ: Power BI, Metabase e Looker Studio.
+
+Get in touch Feel free to contact me: https://www.linkedin.com/in/emanueldemoraes/
